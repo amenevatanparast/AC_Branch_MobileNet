@@ -29,12 +29,6 @@ The network leverages MobileNetV2 as its backbone and enhances feature extractio
    cd AC_Branch_MobileNet  
    ```  
 
-2. Install dependencies:  
-   ```bash  
-   pip install -r requirements.txt  
-   ```  
-
-
 ## Dataset  
 The dataset used for this project is publicly available [here](https://zenodo.org/records/3904280). Ensure to preprocess the data and apply augmentation techniques as outlined in the research article.  
 
