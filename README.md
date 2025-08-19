@@ -38,10 +38,10 @@ If you use this work in your research, please cite the following:
 @article{Vatanparast2025AC_Branch_MobileNet,
   title={AC_Branch_MobileNet: An effective hybrid branch network for plane classification in fetal brain ultrasound image},
   author={Amene Vatanparast, Mansoor Fateh, Hoda Mashayekhi},
-  journal={Your Journal Name},
-  year={2025},
-  volume={XX},
-  pages={YY-ZZ}
+  journal={Biomedical Signal Processing and Control},
+  year={2026},
+  volume={112},
+  pages={108586}
 }
 ```  
 
